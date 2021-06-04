@@ -24,3 +24,19 @@ img {
   margin-bottom: 10px;
   box-sizing: border-box;
 }
+
+.hobby {
+  padding: 10px;
+  border: solid #1d3557;
+  width: 45%;
+  float: left;
+  background-color: #a8dadc;
+}
+
+.interests {
+  padding: 10px;
+  border: solid #1d3557;
+  width: 45%;
+  float: right;
+  background-color: #a8dadc;
+}
