@@ -1,5 +1,5 @@
 body {
-  background-color: #f2e9e4;
+  background-color: #f1faee;
 }
 
 .center {
@@ -9,6 +9,7 @@ body {
 
 img {
   border-radius: 25px;
+  border: solid #1d3557;
 }
 
 .box {
@@ -17,9 +18,9 @@ img {
   line-height: 20px;
   width: 100%;
   padding: 10px;
-  border: solid #9A8C98;
+  border: solid #1d3557;
   border-width: 2px;
-  background-color: #C9ADA7;
+  background-color: #a8dadc;
   margin-bottom: 10px;
   box-sizing: border-box;
 }
